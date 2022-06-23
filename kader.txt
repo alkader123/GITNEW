@@ -1,3 +1,10 @@
+<<<<<<< HEAD
  THis is Kader trying from Win Bash 
 Thanks 
 06/23/22
+=======
+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
+
+The above is token for Git.
+
+>>>>>>> 1eeba81689aaf24963b41674ac4ad6663bdcbdfd
