@@ -8,3 +8,5 @@ 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
 The above is token for Git.
 
 >>>>>>> 1eeba81689aaf24963b41674ac4ad6663bdcbdfd
+
+file updated after creating Develop branch from Lnx
