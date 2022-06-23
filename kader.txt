@@ -9,4 +9,8 @@ The above is token for Git.
 
 >>>>>>> 1eeba81689aaf24963b41674ac4ad6663bdcbdfd
 
+<<<<<<< HEAD
 file updated after creating Develop branch from Lnx
+=======
+This file written after ccreating branches, this branch name is "Testing"
+>>>>>>> 1a721ec99a761b4c49f2ad0d8067d572d6e4a5b4
