@@ -1,5 +1,10 @@
-test file 2 created from Testing branch
+est firle 2 created from Testing branch
 test file 2 tested again from remote
 
+<<<<<<< HEAD
 removed token
 
+=======
+
+token removed on 
+>>>>>>> c146ee304578b1c1c57481990ae046e3266a8990
